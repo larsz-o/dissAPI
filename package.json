@@ -1,0 +1,23 @@
+{
+  "name": "dissapi",
+  "version": "1.0.0",
+  "description": "RESTful API for my eBook project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exiit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsz-o/dissAPI.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Lars Mackenzie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsz-o/dissAPI/issues"
+  },
+  "homepage": "https://github.com/larsz-o/dissAPI#readme"
+}
