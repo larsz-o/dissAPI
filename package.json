@@ -21,9 +21,6 @@
     "url": "https://github.com/larsz-o/dissAPI/issues"
   },
   "homepage": "https://github.com/larsz-o/dissAPI#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.2"
-  },
   "dependencies": {
     "express": "^4.17.1",
     "pg": "^7.18.1"
