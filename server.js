@@ -16,7 +16,7 @@ app.use('/chapters', db.getChapters);
 app.use('/sections', db.getSections);
 
 app.get('/', (request, response) => {
-    response.json({ info: 'Node.js, Express, and Postgres API' })
+    response.json({ info: 'This is the API for my online dissertation app!' })
 })
 app.listen(port);
 
