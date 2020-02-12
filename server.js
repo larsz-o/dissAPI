@@ -12,7 +12,8 @@ app.use(
   })
 )
 app.use('/book', db.getBook);
-
+app.use('/chapters', db.getChapters);
+app.use('/sections', db.getSections);
 
 app.get('/', (request, response) => {
     response.json({ info: 'Node.js, Express, and Postgres API' })
